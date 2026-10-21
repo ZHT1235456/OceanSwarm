@@ -3,6 +3,19 @@
 一片数公里尺度的开放海域，17 艘不同类型的智能无人艇（含一艘 30 m 三体无人指挥旗舰）以协同编队巡航。
 全部场景内容由 Three.js 程序化几何与着色器实时生成，不使用任何外部贴图、模型或 HDR 资源。
 
+![初始镜头](docs/figures/fig-00-hero.png)
+
+- 项目仓库：<https://github.com/ZHT1235456/OceanSwarm>
+- 开发文档（中文 LaTeX）：[docs/OceanSwarm-dev-doc.pdf](docs/OceanSwarm-dev-doc.pdf) · [LaTeX 源码](docs/OceanSwarm-dev-doc.tex)
+
+## 效果预览
+
+| | |
+|---|---|
+| ![低角度旗舰](docs/figures/fig-01-low-angle.png) | ![编队俯视](docs/figures/fig-02-fleet.png) |
+| ![海上试验基地](docs/figures/fig-03-base.png) | ![珊瑚礁潟湖](docs/figures/fig-04-reef.png) |
+| ![集群近景](docs/figures/fig-08-user-swarm.png) | ![海岛](docs/figures/fig-10-user-island.png) |
+
 ## 运行
 
 ```bash
